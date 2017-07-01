@@ -1,0 +1,41 @@
+body{
+	background: no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	background-color: #a9d7d1;
+}
+form{
+	text-align : center;
+    margin-right: auto;
+    margin-left: auto;
+    position: auto;
+}
+
+.input-field{
+width: 280px;	
+}
+
+.left-tab { 
+  display: inline-block;
+  text-align: right;
+  width: 40%;
+  padding: 5px;
+  margin-left:-140px;
+}
+
+.right-tab {
+  display: inline-block;
+  text-align: left;
+  width: 48%;
+  vertical-align: middle;
+  
+}
+ul{
+	list-style:none;
+}
+textarea{
+	height:50px;
+	resize:vertical;
+}
